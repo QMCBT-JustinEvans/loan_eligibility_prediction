@@ -9,3 +9,5 @@ I chose it for a couple reasons:
   3. I was very interested in the aspect of deploying the model as a functioning app using [Streamlit](https://jonaben1-loan-predicition-app-bnti80.streamlit.app/).
 
 I'm hoping to add additional criteria features to the program such as Debt to Income Ratio, Percent Credit Card Debt, etc... to be more accurate and realistic in line with the requirements of a mortgage lender. These are the unseen factors of the data that are not recorded but had to be met in order to even be eligible for a loan in the first place.
+
+Optionally as an extension to this project, I have found an SQL dataset in the Codeup database named home_credit that has over 300k historical loan records and an additional 48.7k applications.
